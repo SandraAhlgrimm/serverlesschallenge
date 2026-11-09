@@ -65,7 +65,7 @@
             <dependency>
                 <groupId>org.json</groupId>
                 <artifactId>json</artifactId>
-                <version>20190722</version>
+                <version>20260719</version>
                 <type>bundle</type>
             </dependency>
             <dependency>
@@ -96,7 +96,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20190722</version>
+            <version>20260719</version>
         </dependency>
         <dependency>
             <groupId>org.apache.maven</groupId>
